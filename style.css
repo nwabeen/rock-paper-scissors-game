@@ -1,0 +1,49 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+i {
+  font-size: 90px;
+  height: 100px;
+  width: 100px;
+  font-style: normal;
+}
+
+#result {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  right: 13px;
+  font-size: 1.7em;
+}
+
+#countVict {
+  font-size: 3em;
+  ;
+  font-family: Orbitron;
+}
+
+#countDef {
+  font-size: 3em;
+  ;
+  float: right;
+  position: relative;
+  right: 30px;
+  display: inline;
+}
+
+.counters p {
+  font-family: Orbitron;
+}
+
+#defeat {
+  margin-left: 8.8em;
+}
+
+.choosemove {
+  font-size: 1.7em;
+  text-align: center;
+}
